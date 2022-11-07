@@ -1,2 +1,2 @@
 # say-hi-to-pedroflooxd
-html thingy
+html stuff
